@@ -2,7 +2,7 @@
 FROM centos:7
 
 #Description
-LABEL description="Arnaud Apache"
+LABEL description="Arnaudee Apache"
 
 # update the system
 RUN yum update -y 
